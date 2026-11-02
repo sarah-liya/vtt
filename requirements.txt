@@ -1,0 +1,16 @@
+
+google-genai
+python-dotenv
+sounddevice
+scipy
+numpy
+torch
+transformers
+g2p-en
+streamlit
+numpy
+sounddevice
+torch
+transformers
+cmudict
+numpy<2
